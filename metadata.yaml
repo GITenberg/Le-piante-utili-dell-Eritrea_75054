@@ -1,0 +1,30 @@
+_repo: Le-piante-utili-dell-Eritrea_75054
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schweinfurth, Georg August
+    birthdate: 1836
+    deathdate: 1925
+    gutenberg_agent_id: '56305'
+    url: http://www.gutenberg.org/2009/agents/56305
+    wikipedia: https://de.wikipedia.org/wiki/Georg_Schweinfurth
+description: ''
+gutenberg_issued: '2025-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75054'
+language: it
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044106343999
+pgterms:marc905: 20241225090457schweinfur
+pgterms:marc906: '1891'
+pgterms:marc907: IT
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the HathiTrust Digital Library/Harvard University)
+publication_note: '  $aNapoli :$bSede della Società, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le piante utili dell'Eritrea
+url: http://www.gutenberg.org/ebooks/75054
